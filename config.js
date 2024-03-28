@@ -13,15 +13,15 @@
 // Betabotz = digunakan hampir di semua fitur kecuali linkshort
 // Botcahx  = digunakan untuk linkshort saja
 
-global.owner = ['6285842647866']  
-global.mods = ['6285842647866'] 
-global.prems = ['6285842647866']
+global.owner = ['201095499866']  
+global.mods = ['201095499866'] 
+global.prems = ['201095499866']
 global.nameowner = 'Lann'
-global.numberowner = '6285842647866' 
+global.numberowner = '201050425256' 
 global.mail = 'fxacbapi.my.id@gmail.com' 
-global.dana = '6281395861695'
-global.pulsa = '6281395861695'
-global.gopay = '6281395861695'
+global.dana = '201095499866'
+global.pulsa = '201095499866'
+global.gopay = '201095499866'
 global.namebot = 'BETABOTZ-MD'
 global.gc = 'https://chat.whatsapp.com/G4f1fTpz9zL4EH3FyIcaPR'
 global.web = 'https://github.com/BOTCAHX'
